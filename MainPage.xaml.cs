@@ -112,7 +112,7 @@ public partial class MainPage : ContentPage
         {
             for (int c = 0; c < TicTacToeGame.GRID_SIZE; c++)
             {
-                grid[r, c].Text = "";
+                grid[r, c].Text = ""; //sets all buttons to have the text of ""
             }
         }
     }

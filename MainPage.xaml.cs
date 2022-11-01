@@ -108,7 +108,13 @@ public partial class MainPage : ContentPage
     /// </summary>
     private void ResetGame()
     {
-
+        for (int r = 0; r < TicTacToeGame.GRID_SIZE; r++)
+        {
+            for (int c = 0; c < TicTacToeGame.GRID_SIZE; c++)
+            {
+                grid[r, c].Text = "";
+            }
+        }
     }
 
 }

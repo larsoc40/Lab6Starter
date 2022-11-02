@@ -1,10 +1,10 @@
 ﻿namespace Lab6Starter;
 /**
  * 
- * Name: 
- * Date: How about this?
- * Description:
- * Bugs:
+ * Name: Calvin L, Rudy L
+ * Date: 11/02/2022
+ * Description: Main class that handles user input
+ * Bugs:CelebrateVictory method not implemented fully
  * Reflection:
  * 
  */
@@ -115,6 +115,8 @@ public partial class MainPage : ContentPage
                 grid[r, c].Text = ""; //sets all buttons to have the text of ""
             }
         }
+
+        ticTacToe.ResetGame();
     }
 
 }

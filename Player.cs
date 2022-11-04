@@ -2,10 +2,10 @@
 
 /**
  * 
- * Name: 
- * Date:
- * Description:
- * Bugs: Did you miss this?
+ * Name: Calvin L, Rudy L
+ * Date: 11/02/2022
+ * Description: Player class
+ * Bugs: None found
  * Reflection:
  * 
  */

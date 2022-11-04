@@ -2,10 +2,10 @@
 
 /**
  * 
- * Name: 
- * Date:
- * Description: And this?
- * Bugs:
+ * Name: Calvin L, Rudy L
+ * Date: 11/02/2022
+ * Description: Main class to initialize program
+ * Bugs: None found
  * Reflection:
  * 
  */

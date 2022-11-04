@@ -2,10 +2,10 @@
 
 /**
  * 
- * Name: Did you fill this in?
- * Date:
- * Description:
- * Bugs:
+ * Name: Calvin, Rudy
+ * Date:11/02/2022
+ * Description: Main class to initialize xaml page
+ * Bugs: None found
  * Reflection:
  * 
  */

@@ -8,10 +8,10 @@ namespace Lab6Starter;
 
 /**
  * 
- * Name: 
- * Date:
- * Description:
- * Bugs:
+ * Name: Calvin L, Rudy L
+ * Date: 11/02/2022
+ * Description: Game class to handle game-related operations
+ * Bugs: None found
  * Reflection: The most important bit ...
  * 
  */
